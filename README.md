@@ -62,28 +62,28 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express,py,spring,fastapi,express,nestjs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,redux,materialui" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,hibernate,vscode,postman,linux,netlify,vercel" />
   </a>
 </p>
 
