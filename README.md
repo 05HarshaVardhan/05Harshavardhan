@@ -1,4 +1,5 @@
-![logo](supun-new.png)
+<img width="1584" height="396" alt="HARSH VARDHAN KOTARI" src="https://github.com/user-attachments/assets/ea67ea89-3a5f-4202-a114-3975432bc021" />
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
