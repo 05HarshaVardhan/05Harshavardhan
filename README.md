@@ -35,15 +35,13 @@
 
 - 🔭 I’m currently open to a new Job
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Harsh's workspace](https://github.com/05HarshaVardhan)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Collaboration and Tech Support**
 
 - 📫 How to reach me **kotaridaiharshvardhan@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **Your the second person to see yourself**
 
@@ -134,4 +132,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://github.com/05HarshaVardhan">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="https://github.com/05HarshaVardhan">Harsh Vardhan</a></p>
